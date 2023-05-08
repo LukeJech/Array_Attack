@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+#game_canvas_div {
+    border: 1px dashed blue;
+    width: 90%;
+    position: relative;
+    margin-top: 30px;
+    transform: scale(1);
+}
+
